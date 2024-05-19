@@ -52,6 +52,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 4. Submit a pull request.
 
 ## Credits
-- Developed by [Your Name](https://github.com/Tarun910)
+- Developed by [Tarun Namdev](https://github.com/Tarun910)
 
 
